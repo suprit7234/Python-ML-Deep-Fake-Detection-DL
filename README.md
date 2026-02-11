@@ -42,8 +42,8 @@ deepfake_detector/
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/deepfake-detector-ml.git
-cd deepfake-detector-ml
+git clone https://github.com/suprit7234/Python-ML-Deep-Fake-Detection-DL/tree/main
+
 ```
 python -m venv venv
 venv\Scripts\activate   # On Windows
